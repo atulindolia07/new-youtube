@@ -1,0 +1,16 @@
+{
+  "name": "new-youtube",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a new project of chai and code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
